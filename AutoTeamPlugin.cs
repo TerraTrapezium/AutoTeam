@@ -9,7 +9,7 @@ namespace AutoTeam
 	[ApiVersion(2, 1)]
 	public class AutoTeamPlugin : TerrariaPlugin
 	{
-		public override string Author => "GoodPro712";
+		public override string Author => "Metacinnabar";
 
 		public override string Description => "Automatically joins players to a configurable team when they join the server.";
 
